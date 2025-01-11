@@ -22,5 +22,5 @@ A **Banking Application** developed using **Spring Boot** and **MySQL** that pro
   - Java, Spring Boot, REST API
 - **Database**: 
   - MySQL
--**API Testing**:
- -Postman: Used for testing and validating the RESTful API endpoints.
+- **API Testing**:
+  -  Used for testing and validating the RESTful API endpoints.
